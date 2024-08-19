@@ -1,0 +1,178 @@
+﻿,Variable,Description
+0,age,age
+1,cclasnr11,Estado de iof6 1:faltante 0: observado
+2,cclasnr2,Estado de impa 1:faltante 0: observado
+3,cclasnr3,Estado de isa 1:faltante 0: observado
+4,cclasnr4,Estado de ie 1:faltante 0: observado
+5,cclasnr5,Estado de imdi 1:faltante 0: observado
+6,cclasnr6,Estado de iof1 1:faltante 0: observado
+7,cclasnr7,Estado de iof2 1:faltante 0: observado
+8,cclasnr8,Estado de iof3 1:faltante 0: observado
+9,clase,=1 urban; =0 rural
+10,college,=1 if terciary educ.;=0 otherwise
+11,cotPension,RECODE of p6920 (¿está... Cotizando actualmente a un fondo de pensiones?)
+12,cuentaPropia,=1 if self employed; =0 otherwise
+13,depto,Departamento
+14,directorio,Llave de vivienda
+15,dominio,"Cada una de las 24 a.M., otras cabeceras y resto"
+16,dsi,=1 if unemployed; =0 otherwise
+17,estrato1,"Estrato de energía para las 13 a.M., y sextil de icv para otras cabeceras y rest"
+18,fex_c,Factor de expansión anualizado
+19,fex_dpto,Factor Expansión departamental
+20,formal,=1 if formal (social security); =0 otherwise
+21,fweight,Frequency weights
+22,hoursWorkActu~b,actual hours worked previous week - sondary occ.
+23,hoursWorkUsual,usual weekly hours worked - principal occ.
+24,ie,Ingreso en especie antes de imputación
+25,iees,Ingreso en especie imputado (sólo para faltantes o extremos)
+26,imdi,Ingreso por trabajo de desocupados e inactivos antes de imputación
+27,imdies,Ingreso por trabajo de desocupados e inactivos imputado (sólo para faltantes o e
+28,impa,Ingreso monetario de la primera actividad antes de imputación
+29,impaes,"Ingreso monetario de la primera actividad imputado (sólo para faltantes, extremo"
+30,ina,Inactivo 1: sí
+31,inac,=1 if inactive; =0 otherwise
+32,informal,=1 if informal (social security); =0 otherwise
+33,ingtot,Ingreso total
+34,ingtotes,Ingreso total imputado
+35,ingtotob,Ingreso total observado
+36,iof1,Ingreso por intereses y dividendos antes de imputación
+37,iof1es,Ingreso por intereses y dividendos imputado (sólo para faltantes o extremos)
+38,iof2,Ingreso por jubilaciones y pensiones antes de imputación
+39,iof2es,Ingreso por jubilaciones y pensiones imputado (sólo para faltantes o extremos)
+40,iof3h,"Ingreso por ayudas de hogares, antes de imputación"
+41,iof3hes,"Ingreso por ayudas de hogares, imputado (sólo para faltantes o extremos)"
+42,iof3i,"Ingreso por ayudas de instituciones, antes de imputación"
+43,iof3ies,"Ingreso por ayudas de instituciones, imputado (sólo para faltantes o extremos)"
+44,iof6,Ingreso por arriendos antes de imputación
+45,iof6es,Ingreso por arriendos imputado (sólo para faltantes o extremos)
+46,isa,Ingreso monetario de la segunda actividad antes de imputación
+47,isaes,Ingreso monetario de la segunda actividad imputado (sólo para faltantes o extrem
+48,maxEducLevel,max. education level attained
+49,mes,Mes
+50,microEmpresa,=1 if 5 workers or less in firm; =0 otherwise; incluye cuenta propia
+51,ocu,=1 occupied; =0 otherwise
+52,oficio,occupation
+53,orden,Llave de persona
+54,p550,¿cuál fue la ganancia neta del negocio o de la cosecha durante los últimos doce
+55,p6050,¿cuál es el parentesco de ...Con el jefe o jefa del hogar?
+56,p6090,"""¿ ... Está afiliado, es cotizante o es beneficiario de alguna entidad de segur"
+57,p6100,¿A cual de los siguientes regímenes de seguridad social en salud está afiliado:
+58,p6210,¿Cuál es el nivel educativo más alto alcanzado por .... y el último año o grado
+59,p6210s1,Grado escolar aprobado
+60,p6240,¿En que actividad ocupó...... la mayor parte del tiempo la semana pasada?
+61,p6426,"¿cuanto tiempo lleva ... Trabajando en esta empresa, negocio, industria, oficina"
+62,p6500,Antes de descuentos ¿cuánto ganó .... el mes pasado en este empleo?
+63,p6510,¿el mes pasado recibio ingresos por concepto de horas extras?
+64,p6510s1,¿cuánto recibió por horas extras?
+65,p6510s2,¿incluyó este valor en los ingresos del mes pasado?
+66,p6545,"El mes pasado recibió a. Primas (técnica, de antigüedad, clima,orden publico, ot"
+67,p6545s1,¿cuánto recibió por primas?
+68,p6545s2,¿incluyó este valor en los ingresos del mes pasado ($ ____) que me declaró ant
+69,p6580,¿el mes pasado recibió b. Bonificaciones?
+70,p6580s1,¿cuánto recibió por bonificaciones?
+71,p6580s2,¿incluyó este valor en los ingresos del mes pasado ($ ____) que me declaró ant
+72,p6585s1,¿el mes pasado recibió a. Auxilio o subsidio de alimentación?
+73,p6585s1a1,¿cuánto recibió por subsidio de alimentación?
+74,p6585s1a2,¿incluyó este valor en los ingresos del mes pasado ($ ____) que me declaró ant
+75,p6585s2,¿el mes pasado recibió b. Auxilio subsidio de transporte?
+76,p6585s2a1,¿cuánto recibió por subsidio de transporte?
+77,p6585s2a2,¿incluyó este valor en los ingresos del mes pasado ($ ____) que me declaró ant
+78,p6585s3,¿el mes pasado recibió c. Subsidio familiar?
+79,p6585s3a1,¿cuánto recibió por subsidio familiar?
+80,p6585s3a2,¿incluyó este valor en los ingresos del mes pasado ($ ____) que me declaró ant
+81,p6585s4,¿el mes pasado recibio d. Subsidio educativo?
+82,p6585s4a1,¿cuánto recibio por subsidio educativo?
+83,p6585s4a2,¿incluyó este valor en los ingresos del mes pasado ($ ____) que me declaró ant
+84,p6590,"¿además del salario en dinero,¿el mes pasado recibió alimentos como parte de pag"
+85,p6590s1,¿en cuánto estima lo que recibió? $____________
+86,p6600,"¿además del salario en dinero,¿el mes pasado recibió vivienda como parte de pago"
+87,p6600s1,¿en cuánto estima lo que recibió? $_______________
+88,p6610,¿normalmente... Utiliza transporte de la empresa para desplazarse a su trabajo
+89,p6610s1,¿en cuánto estima lo que recibió?$_______________
+90,p6620,"Además del salario en dinero, ¿el mes pasado... Recibió otros ingresos en especi"
+91,p6620s1,¿en cuánto estima lo que recibió? $_______________
+92,p6630s1,En los últimos 12 meses recibió … a. Prima de servicios
+93,p6630s1a1,¿cuánto recibio? $____________
+94,p6630s2,En los últimos 12 meses recibió ... B. Prima de navidad
+95,p6630s2a1,¿cuánto recibio? $____________
+96,p6630s3,En los últimos 12 meses recibió … c. Prima de vacaciones
+97,p6630s3a1,¿cuánto recibió? $____________
+98,p6630s4,En los últimos 12 meses recibio ... D. Viáticos permanentes
+99,p6630s4a1,¿cuánto recibió? $____________
+100,p6630s6,En los últimos 12 meses recibio … e. Bonificaciones anuales
+101,p6630s6a1,¿cuánto recibió? $____________
+102,p6750,"¿cuál fue la ganancia neta o los honorarios netos de ... En esa actividad, negoc"
+103,p6760,¿ a cuántos meses corresponde lo que recibió?
+104,p6870,"¿cuántas personas en total tiene la empresa, negocio, industria, oficina, firma,"
+105,p6920,¿está... Cotizando actualmente a un fondo de pensiones?
+106,p7040,"Además de la ocupación principal, ¿.... tenía la semana pasada otro trabajo o"
+107,p7050,En ese segundo trabajo…..es: (ocupación segunda actividad)
+108,p7070,¿cuánto recibió o ganó ….. el mes pasado en ese segundo trabajo o negocio?
+109,p7090,Además de las horas que trabaja actualmente ¿...... quiere trabajar más horas?
+110,p7110,"Durante las últimas 4 semanas, ¿ ...... hizo diligencias para trabajar más horas"
+111,p7120,Si la semana pasada le hubiera resultado la posibilidad de trabajar más horas
+112,p7140s1,¿Por que motivos ....... desea cambiar de trabajo o empleo:
+113,p7140s2,¿Por que motivos ....... desea cambiar de trabajo o empleo:
+114,p7150,"Durante las ÚLTIMAS 4 SEMANAS, ¿...... hizo diligencias para cambiar de traba"
+115,p7160,Si le resultara un nuevo trabajo o empleo a...¿podría empezar a desempeñarlo an
+116,p7310,¿...... ha buscado trabajo por primera vez o había trabajado antes por lo menos
+117,p7350,En este último trabajo era: … (Desocupados)
+118,p7422,¿Recibió o ganó el mes pasado ingresos por concepto de trabajo?. (Desocupados)
+119,p7422s1,¿Cuánto? $_________________
+120,p7472,¿recibió o ganó el mes pasado ingresos por concepto de trabajo?. (desocupados)
+121,p7472s1,¿cuánto? $_________________
+122,p7495,"El mes pasado, ¿recibió pagos por concepto de arriendos y/o pensiones?"
+123,p7500s1,"¿El mes pasado, recibió pagos por: a. arriendos de casas, apartamentos, fincas,"
+124,p7500s1a1,Valor mes pasado $ __________________
+125,p7500s2,"¿El mes pasado recibió pagos por b. pensiones o jubilaciones por vejez,invalidez"
+126,p7500s2a1,Valor mes pasado $ __________________
+127,p7500s3,"¿El mes pasado recibió pagos por c. pensión alimenticia por paternidad, divorcio"
+128,p7500s3a1,Valor mes pasado $ __________________
+129,p7505,"Durante los últimos doce meses, ¿recibió dinero de otros hogares, personas o ins"
+130,p7510s1,"Durante los últimos 12 meses, ¿recibió a. dinero de otros hogares o personas res"
+131,p7510s1a1,Valor $ ___________
+132,p7510s2,"Durante los últimos 12 meses, ¿recibió b. dinero de otros hogares o personas res"
+133,p7510s2a1,Valor $ ___________
+134,p7510s3,"Durante los últimos 12 meses, ¿recibió c. ayudas en dinero de instituciones del"
+135,p7510s3a1,Valor $ ___________
+136,p7510s5,"Durante los últimos 12 meses, ¿recibió d. dinero por intereses de prestamos o CD"
+137,p7510s5a1,Valor $ ___________
+138,p7510s6,"Durante los últimos 12 meses, ¿recibió e. dinero por concepto de cesantías y/o i"
+139,p7510s6a1,Valor $ ___________
+140,p7510s7,"Durante los últimos 12 meses, ¿recibió f. dinero de otras fuentes diferentes a l"
+141,p7510s7a1,Valor $ ___________
+142,pea,=1 if ocu or dsi; =0 otherwise
+143,pet,Población en edad de trabajar 1: sí 0: no
+144,regSalud,RECODE of p6100 (¿A cual de los siguientes regímenes de seguridad social en salu
+145,relab,type of occupation
+146,secuencia_p,Llave de hogar
+147,sex,"=1 male, =0 female"
+148,sizeFirm,size of the firm by categories
+149,totalHoursWor~d,total hours worked previous week
+150,wap,w=1 if working age population; =0 otherwise
+151,y_accidentes_m,Ingreso accidentes monetario ultimos 12 meses
+152,y_auxilioAlim~m,Ingreso auxilio alimentacion monetario en el mes
+153,y_auxilioTran~m,Ingreso auxilio transporte monetario en el mes
+154,y_bonificacio~m,Ingreso monetario en el mes
+155,y_especie_m,labor income especie - monthly nominal - principal occ.
+156,y_gananciaInd~m,income independents total - nominal monthly
+157,y_gananciaInd~u,income independents total - nominal hourly
+158,y_gananciaN~o_m,income independents (rural) - nominal mensual
+159,y_gananciaN~a_m,income independents - nominal mensual
+160,y_horasExtras_m,labor income extra hours - monthly nominal - principal occ.
+161,y_ingLab_m,labor income salaried - nominal monthly - all occ. (includes tips and commission
+162,y_ingLab_m_ha,labor income salaried - nomial hourly - all occ. (includes tips and commissions
+163,y_otros_m,labor income especie (others) - monthly nominal - principal occ.
+164,y_primaNavida~m,Ingreso prima navidad monetario ultimos 12 meses
+165,y_primaServic~m,Ingreso prima servicios monetario ultimos 12 meses
+166,y_primaVacaci~m,Ingreso prima vacaciones monetario ultimos 12 meses
+167,y_primas_m,Ingreso primas monetario en el mes
+168,y_salarySec_m,salary nominal mensual occ. secundario
+169,y_salary_m,salary - nominal monthly - principal occ. (includes tips and commissions)
+170,y_salary_m_hu,salary - real hourly (usual) - principal occ. (includes tips and commissions)
+171,y_subEducativ~m,Ingreso subsidio educativo monetario en el mes
+172,y_subFamiliar_m,Ingreso subsidio familiar monetario en el mes
+173,y_total_m,income salaried + independents total - nominal monthly
+174,y_total_m_ha,income salaried + independents total - nominal hourly
+175,y_viaticos_m,Ingreso viaticos monetario ultimos 12 meses
+176,y_vivienda_m,labor income housing - monthly nominal - principal occ.

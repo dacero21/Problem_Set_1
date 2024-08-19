@@ -1,0 +1,120 @@
+﻿,Variable,values,level
+0,p6210,1,Ninguno
+1,p6210,2,Preescolar
+2,p6210,3,Básica primaria (1o - 5o)
+3,p6210,4,Básica secundaria (6o - 9o)
+4,p6210,5,Media (10o - 13o)
+5,p6210,6,Superior o universitaria
+6,p6210,9,"No sabe, no informa"
+7,maxEducLevel,1,None
+8,maxEducLevel,2,preschool
+9,maxEducLevel,3,primary incomplete (1-4)
+10,maxEducLevel,4,primary complete (5)
+11,maxEducLevel,5,secondary incomplete (6-10)
+12,maxEducLevel,6,secondary complete (11)
+13,maxEducLevel,7,terciary
+14,maxEducLevel,9,N/A
+15,regSalud,1,r. contributivo
+16,regSalud,2,r. especial
+17,regSalud,3,r. subsidiado
+18,regSalud,9,N/A
+19,cotPension,1,cotiza pension
+20,cotPension,2,no cotiza pension
+21,cotPension,3,pensionado
+22,cotPension,9,N/A
+23,sizeFirm,1,self-employed
+24,sizeFirm,2,2-5 workers
+25,sizeFirm,3,6-10 workers
+26,sizeFirm,4,11-50
+27,sizeFirm,5,>50
+28,oficio,1,"Químicos, Físicos   (Profesionales y Técnicos)"
+29,oficio,2,"Arquitectos – Ingenieros   (civil, eléctrico, electrónico, mecánico, químico, metalúrgicos, minas e   industrial)"
+30,oficio,3,"Agrimensores, dibujantes –   Técnicos en (Ingeniería civil,    eléctricos, electrónicos, mecánicos, químico, industrial,   metalúrgicos, minas, de la industria) Topógrafo"
+31,oficio,4,"Pilotos, Ingeniero de vuelo,   oficiales de cubierta, maquinistas – Navegación marítima y fluvial"
+32,oficio,5,"Biólogos, agrónomos,   zoólogos, bacteriólogos, farmacólogos, técnicos en ciencias biológicas y   agronómicas"
+33,oficio,6,"Médicos, cirujanos,   asistentes médicos, odontólogos, asistentes dentistas, veterinarios,   asistentes veterinarios, farmacéuticos, dietéticos y nutriólogos de salud   pública, nutricionista"
+34,oficio,7,"Enfermeros, parteras   diplomados y no diplomados, optómetras, fisioterapeutas, técnicos en   radiología, Instrumentador quirúrgico, "
+35,oficio,8,"Estadistas, matemáticos,   analistas de sistemas, técnicos"
+36,oficio,9,Economistas
+37,oficio,11,Contadores
+38,oficio,12,"Abogados, jueces,   magistrados, fiscales, notarios"
+39,oficio,13,Docentes
+40,oficio,14,"Sacerdotes, pastores,   monjas"
+41,oficio,15,"Escritores, periodistas,   publicista"
+42,oficio,16,"Escultores, pintores,   fotógrafos, decoradores, operadores de cámaras de cine y TV, diseñador"
+43,oficio,17,"Compositores, músicos,   cantantes, coreógrafos, bailarines, actores, directores, artistas,   empresarios y productores de espectáculos, recreacionista, locutor"
+44,oficio,18,"Atletas, deportistas,   docentes de educación física"
+45,oficio,19,"Bibliotecarios, archivistas,   encargados de museos, sociólogos, antropólogos, trabajadores de asistencia   social, filólogos, traductores, interpretes, psicólogos, sociólogo, lector de   cartas"
+46,oficio,20,"Cuerpos legislativos,   personal directivo de la administración pública"
+47,oficio,21,"Directores, gerentes   (personal directivo)"
+48,oficio,30,"Jefes de empleados de   oficinas, supervisor de encuestas"
+49,oficio,31,Agentes   administrativos
+50,oficio,32,"Secretarias, mecanógrafas,   taquígrafos, teletípistas, operadores de máquinas perforadoras de tarjetas y   cintas"
+51,oficio,33,"Auxiliar de contabilidad,   cajeros, empleados de bancos"
+52,oficio,34,"Operadores de máquinas   contables y de calcular, digitador, transcriptor"
+53,oficio,35,Jefes de estaciones de   ferrocarril y oficinas de correos
+54,oficio,36,"Jefes de tren, controladores   de coches camas, cobradores, azafata de bus"
+55,oficio,37,Carteros y mensajeros
+56,oficio,38,"Telefonistas,   telégrafos"
+57,oficio,39,"Almacenistas, bodegueros,   auxiliar administrativo, recepcionistas, empleados de oficinas de viajes,   empleados de biblioteca y archivo, auxiliar de importaciones, exportaciones,   tramitador de documentos, auxiliar de seguros varios, de vida y   automotores"
+58,oficio,40,"Director, gerente de   ventas"
+59,oficio,41,"Comerciante,   propietario"
+60,oficio,42,"Jefes de ventas,   compradores"
+61,oficio,43,"Agente de ventas,   representante comercial, comisionista"
+62,oficio,44,"Agente de seguros,   inmobiliarios, de cambio y bolsa, subastadores, jefes de ventas de   intangibles, comisionista de propiedad raiz, promotor de salud"
+63,oficio,45,"Vendedores, ambulantes, a   domicilio, de loterías y periódicos, mercaderistas"
+64,oficio,49,Prestamista
+65,oficio,50,"Directores de hotel, bares,   similares"
+66,oficio,51,"Gerente - propietario de   hotel, bares, restaurantes"
+67,oficio,52,"Mayordomo, ecónomo, ama de   llaves"
+68,oficio,53,"Cocineros, camareros,   barman, meseros"
+69,oficio,54,"Empleada doméstica, niñera,   dama de compañía, camarera"
+70,oficio,55,"Guardián de edificio,   portero, sacristán, aseador, limpia ventanas, deshollinador"
+71,oficio,56,"Lavanderos, limpiadores,   planchadores"
+72,oficio,57,"Peluqueros, barberos,   manicuristas, maquillador, especialista en tratamientos de belleza"
+73,oficio,58,"Bomberos, agentes de   policía, detective público y privado, vigilante, guardián de prisiones"
+74,oficio,59,"Guías de turismo, policía de   turismo, empresario de pompas fúnebres, embalsamador, recibidor de apuestas   en casino, garitero, azafata de avion, auxiliar de farmacia, enfermera,   veterinaria, trabajadora sexual"
+75,oficio,60,"Administrador de explotación   agropecuaria, cooperativas agropecuarias, mayordomo y/o capataz de   finca"
+76,oficio,61,Agricultores y   ganaderos
+77,oficio,62,"Trabajadores agropecuarios   en general, peón agrícola, tractorista, recolector de algodón, ordeñador,   porcicultor, cunicultor, avicultor, capricultor, avicultor, jardinero,   apicultor"
+78,oficio,63,"Talador de árboles,   viverista forestal, guardabosques"
+79,oficio,64,"Pescadores en río y mar,   piscicultor, trampero"
+80,oficio,70,"Supervisor de fabricación   (maquinaria y productos metálicos, equipos eléctricos y electrónicos,   productos de papel, cartón, caucho, productos químicos, plásticos, otros   materiales sintéticos, de tejidos y confección de prendas de vestir,   artículos de cuero, de calzado, de madera, cerámica y vidrio, productos del   tabaco) -Supervisor (Tratamiento de metales, de sustancias químicas básicas y   materias afines, preparación de alimentos y bebidas, de construcciones y   obras, artes gráficas, producción y distribución de electricidad, gas y   agua)"
+81,oficio,71,"Minero, cantero, dinamitero,   lavador de oro, sondista (pozos de petróleo y gas)"
+82,oficio,72,"Fundidor, laminador,   moldeador, trefilador, galvanizador, pulidor de piezas de metal colado,   limpiador de metales"
+83,oficio,73,"Trabajadores de tratamiento   de la madera y de fabricación de papel y cartón, Madera (aserrador,   descortezador, operador de sierra, de trompo, cortador)"
+84,oficio,74,"Operarios de los   tratamientos químicos, destilador, refinadores del petróleo, preparadores de   gas propano, carbonero(vegetal)"
+85,oficio,75,"Clasificador de fibras,   lavador de lana, de fibras textiles (exc. Lana), operarios de la fabricación   de abonos, pinturas y barnices (incluye colorantes) de resinas y similares,   de ácidos, hilanderos, bobinadotes, tejedores, blanqueadores, tintoreros,   inspector de calidad (fibras)"
+86,oficio,76,"Curtidor, adobador, teñidor   de cueros y pieles"
+87,oficio,77,"Trabajadores de la   preparación de alimentos y bebidas – panaderos, pasteleros, confiteros,   matarifes, carniceros, tratamiento y elaboración de productos lácteos,   trapichero, panelero, hornero, catador, cerveceros"
+88,oficio,78,"Trabajadores en el   procesamiento del tabaco, cigarreros"
+89,oficio,79,"Sastres, modistas,   peleteros, tapiceros, fábrica de sombreros, bordadores, colchoneros"
+90,oficio,80,"Zapateros, guarnecedor,   artesanos del cuero, talabartero"
+91,oficio,81,"Carpinteros, ebanistas,   labrador, tallador"
+92,oficio,82,"Labrantes y adornistas   (pulen granito, mármol y caliza)"
+93,oficio,83,"Herreros, ornamentador,   forjadores, ajustadores de máquinas herramientas, taladrador, rectificador de   metales, esmerilador, afilador de cuchillos, tijeras, cerrajero"
+94,oficio,84,"Ajustadores, montadores e   instaladores de maquinaria e instrumentos de precisión, relojeros y   mecánicos"
+95,oficio,85,"Electricistas de vivienda y   automotriz, instalador y reparador de teléfonos y contadores"
+96,oficio,86,"Operadores de estaciones de   radio y TV, equipos de sonorización, dj"
+97,oficio,87,"Fontaneros, soldadores,   plomero, instalador de tuberías de gas, remachador, latonero"
+98,oficio,88,Joyeros y plateros
+99,oficio,89,"Vidrieros, ceramistas,   sopladores, modeladores, laminadores, cortadores, pulidores de vidrio,   biselador, hornero (tejas, ladrillos, loza, porcelana), pintores y   decoradores de vidrio y cerámica"
+100,oficio,90,Trabajadores de la   fabricación de productos de caucho y plástico
+101,oficio,91,"Confeccionadores de cajas,   bolsas de cartón y papel"
+102,oficio,92,"Trabajadores de las artes   gráficas, tipógrafos, encuadernadores"
+103,oficio,93,"Pintor de edificaciones, de   automóviles, mezclador de pinturas"
+104,oficio,94,"Trabajadores manufactureros,   constructores y afinadores de instrumentos musicales, tejer cestos, fabrica   muebles en material de caña, junco o mimbre, cepillos y escobas. Operario en   la elaboración de prefabricados de hormigón, fósforos, linóleo, lápices,   dientes artificiales, películas y papel fotográfico, confecciona muñecos y   juguetes de trapo, de botones, sellos de caucho, confección de persianas,   taxidermista"
+105,oficio,95,"Albañiles, estucador,   cristaleros, mampostero, techadores, carpintero"
+106,oficio,96,"Operador de instalaciones de   producción de energía eléctrica, de máquinas fijas"
+107,oficio,97,"Manipulación de mercancía y   movimiento de tierras – Estibadores, cargadores, empacadores, empalmador de   cables, conductor de grúa, operarios de maquinaria pesada"
+108,oficio,98,"Conductores de vehículos de   transporte, taxistas, choferes"
+109,oficio,99,"Peones no clasificados,   recolector de basura, lustrabotas, montallantas, barrendero de calles,   jardines y parques, lavador de platos en restaurante"
+110,relab,1,Obrero o empleado de empresa particular
+111,relab,2,Obrero o empleado del gobierno
+112,relab,3,Empleado doméstico
+113,relab,4,Trabajador por cuenta propia
+114,relab,5,Patron o empleador
+115,relab,6,Trabajador familiar sin remuneracion
+116,relab,7,Trabajador sin remuneracin en empresas o negocios de otros hogares
+117,relab,8,Jornalero o peon
+118,relab,9,Otro
